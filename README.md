@@ -1,4 +1,4 @@
-### This is KrisCris (Conn_Lost)'s GitHub, HELLO WORLD! 👋
+### Conn_Lost is creating Minecraft mods, HELLO WORLD! 👋
 
 ### Stats
 [![KrisCris's github stats](https://github-readme-stats.vercel.app/api?username=KrisCris&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
