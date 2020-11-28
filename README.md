@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=kriscris&layout=compact&title_color=4F8CC9&theme=dracula&hide_border=true&icon_color=4F8CC9&count_private=false&extra=SOFOP)](https://github.com/KrisCris)
 
 ### test
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanerx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriscris&layout=compact&theme=dracula)](https://github.com/KrisCris)
